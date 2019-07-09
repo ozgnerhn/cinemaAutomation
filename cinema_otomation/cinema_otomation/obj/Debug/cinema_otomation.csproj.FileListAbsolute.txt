@@ -1,0 +1,231 @@
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\Onur\source\repos\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csproj.CoreCompileInputs.cache
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\melik\Downloads\Telegram Desktop\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\Onur\Downloads\Telegram Desktop\cinema_oto\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\erhan\Desktop\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\ApplicationInsights.config
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll.config
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\cinema_otomation.pdb
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\WebGrease.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\System.Web.Optimization.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Antlr3.Runtime.pdb
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Newtonsoft.Json.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\Microsoft.AI.Web.xml
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.csprojResolveAssemblyReference.cache
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.dll
+C:\Users\erhan\Desktop\4. SINIF\proje\cinema-automation-asp.NET-master\cinema-automation-asp.NET-master\cinema_otomation\cinema_otomation\obj\Debug\cinema_otomation.pdb
